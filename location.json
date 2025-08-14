@@ -1,0 +1,66 @@
+[
+  {
+    "type": "pesticide",
+    "name": "Active Pest Control",
+    "latitude": 27.7172,
+    "longitude": 85.324,
+    "rating": "⭐ 4.9",
+    "hours": "Open 24h"
+  },
+  {
+    "type": "pesticide",
+    "name": "Pest Defence Service",
+    "latitude": 27.715,
+    "longitude": 85.32,
+    "rating": "⭐ 4.9",
+    "hours": "Open 24h"
+  },
+  {
+    "type": "pesticide",
+    "name": "Orange Ball Pvt. Ltd.",
+    "latitude": 27.72,
+    "longitude": 85.33,
+    "rating": "⭐ 4.9",
+    "hours": "Open 24h"
+  },
+  {
+    "type": "pesticide",
+    "name": "City Pest Control",
+    "latitude": 27.725,
+    "longitude": 85.335,
+    "rating": "⭐ 5.0",
+    "hours": "Open 24h"
+  },
+  {
+    "type": "nursery",
+    "name": "Kathmandu Nursery",
+    "latitude": 27.718,
+    "longitude": 85.326,
+    "rating": "⭐ 4.0",
+    "hours": "Opens 6 AM"
+  },
+  {
+    "type": "nursery",
+    "name": "Royal Nursery",
+    "latitude": 27.721,
+    "longitude": 85.328,
+    "rating": "⭐ 4.5",
+    "hours": "Opens 7 AM"
+  },
+  {
+    "type": "nursery",
+    "name": "Standard Nursery",
+    "latitude": 27.723,
+    "longitude": 85.33,
+    "rating": "⭐ 4.1",
+    "hours": "Opens 9 AM"
+  },
+  {
+    "type": "nursery",
+    "name": "Swoyambhu Garden Service",
+    "latitude": 27.726,
+    "longitude": 85.332,
+    "rating": "⭐ 4.7",
+    "hours": "Opens 7 AM"
+  }
+]
