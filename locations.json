@@ -1,0 +1,182 @@
+[
+  {
+    "type": "nursery",
+    "name": "Standard Nursery",
+    "address": "Dhapasi, Kathmandu",
+    "latitude": 27.749037,
+    "longitude": 85.32885,
+    "phone": "01-4372522",
+    "hours": "08:00–18:00",
+    "source": "local directory"
+  },
+  {
+    "type": "nursery",
+    "name": "Swoyambhu Garden Service & Plant Nursery",
+    "address": "Swoyambhu, Kathmandu",
+    "latitude": 27.726,
+    "longitude": 85.332,
+    "phone": "+977-98510xxxx",
+    "hours": "08:00–17:00",
+    "source": "facebook / directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "Orange Ball Pvt. Ltd.",
+    "address": "Kathmandu (office)",
+    "latitude": 27.7173,
+    "longitude": 85.323961,
+    "phone": "01-442xxxx",
+    "hours": "08:00–18:00",
+    "source": "company page"
+  },
+  {
+    "type": "pesticide",
+    "name": "All Nepal Pest Control (ANPC)",
+    "address": "Shantinagar, Kathmandu",
+    "latitude": 27.7175,
+    "longitude": 85.3228,
+    "phone": "+977-9745372488",
+    "hours": "08:00–20:00",
+    "source": "directory"
+  },
+  {
+    "type": "nursery",
+    "name": "Pokhara Nursery & Garden",
+    "address": "Pokhara, Lakeside area",
+    "latitude": 28.2096,
+    "longitude": 83.9856,
+    "phone": "+977-61-xxxxxx",
+    "hours": "08:00–19:00",
+    "source": "local directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "Pokhara Agrovet / Pest Service",
+    "address": "Pokhara",
+    "latitude": 28.209,
+    "longitude": 83.986,
+    "phone": "",
+    "hours": "08:00–18:00",
+    "source": "local listing"
+  },
+  {
+    "type": "nursery",
+    "name": "Bharatpur Nursery",
+    "address": "Bharatpur - Chitwan",
+    "latitude": 27.6719,
+    "longitude": 84.432,
+    "phone": "+977-56-xxxxxx",
+    "hours": "08:00–18:00",
+    "source": "local directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "Chitwan Agrovet / Pest Control",
+    "address": "Bharatpur, Chitwan",
+    "latitude": 27.673,
+    "longitude": 84.4315,
+    "phone": "",
+    "hours": "09:00–17:00",
+    "source": "local listing"
+  },
+  {
+    "type": "nursery",
+    "name": "Biratnagar Nursery",
+    "address": "Biratnagar, Morang",
+    "latitude": 26.4526,
+    "longitude": 87.2718,
+    "phone": "+977-21-xxxxxx",
+    "hours": "08:00–18:00",
+    "source": "local directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "Birat Agrovet / Pest Service",
+    "address": "Biratnagar",
+    "latitude": 26.453,
+    "longitude": 87.2722,
+    "phone": "",
+    "hours": "08:00–17:00",
+    "source": "local listing"
+  },
+  {
+    "type": "nursery",
+    "name": "Butwal Nursery",
+    "address": "Butwal, Rupandehi",
+    "latitude": 27.7008,
+    "longitude": 83.4483,
+    "phone": "+977-71-xxxxxx",
+    "hours": "08:00–18:00",
+    "source": "local directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "Butwal Agrovet",
+    "address": "Butwal",
+    "latitude": 27.7005,
+    "longitude": 83.448,
+    "phone": "",
+    "hours": "08:00–17:00",
+    "source": "local listing"
+  },
+  {
+    "type": "nursery",
+    "name": "Nepalgunj Nursery",
+    "address": "Nepalgunj, Banke",
+    "latitude": 28.0546,
+    "longitude": 81.6176,
+    "phone": "+977-81-xxxxxx",
+    "hours": "08:00–18:00",
+    "source": "local directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "Nepalgunj Agrovet",
+    "address": "Nepalgunj",
+    "latitude": 28.055,
+    "longitude": 81.617,
+    "phone": "",
+    "hours": "08:00–17:00",
+    "source": "local listing"
+  },
+  {
+    "type": "nursery",
+    "name": "Janakpur Nursery",
+    "address": "Janakpur, Dhanusa",
+    "latitude": 26.7096,
+    "longitude": 85.923,
+    "phone": "+977-41-xxxxxx",
+    "hours": "08:00–18:00",
+    "source": "local directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "Janakpur Agrovet",
+    "address": "Janakpur",
+    "latitude": 26.71,
+    "longitude": 85.9235,
+    "phone": "",
+    "hours": "08:00–17:00",
+    "source": "local listing"
+  },
+  {
+    "type": "nursery",
+    "name": "Royal Nursery",
+    "address": "Koteshwor / Kathmandu",
+    "latitude": 27.721,
+    "longitude": 85.328,
+    "phone": "+977-1-xxxxxxx",
+    "hours": "07:00–18:00",
+    "source": "local directory"
+  },
+  {
+    "type": "pesticide",
+    "name": "City Pest Control Service",
+    "address": "Kathmandu",
+    "latitude": 27.724,
+    "longitude": 85.335,
+    "phone": "",
+    "hours": "09:00–18:00",
+    "source": "facebook / listing"
+  }
+]
